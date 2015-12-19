@@ -2,7 +2,7 @@
 
 ![maze](https://cloud.githubusercontent.com/assets/8960984/11910785/b3757a90-a5bc-11e5-94d8-8133e5df538f.gif)
 
-This project was created in fulfillment of a freshman level programming assigment. Given a list of programming concepts and C++ features, students were tasked with creating any program that effectively demonstrates each item from the specification. I chose to create a random maze generator that can optionally find the solution path and animate the entire process.
+This project was created in fulfillment of a freshman level programming assignment. Given a list of programming concepts and C++ features, students were tasked with creating any program that effectively demonstrates each item from the specification. I chose to create a random maze generator that can optionally find the solution path and animate the entire process.
 
 ### **Concept/Feature Listing**
 
