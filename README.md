@@ -37,7 +37,7 @@ This project was created in fulfillment of a freshman level programming assigmen
 | pointer to an object                       | mazemaker.cpp | [121](https://github.com/fedackb/maze-maker/blob/master/mazemaker.cpp#L121) |
 | pointer to a struct                        | Maze.cpp      | [427](https://github.com/fedackb/maze-maker/blob/master/Maze.cpp#L427)      |
 | pointer to an array                        | Maze.cpp      | [683](https://github.com/fedackb/maze-maker/blob/master/Maze.cpp#L683)      |
-| custom namespace                           | UtilFuncs.hpp | 11                                                                          |
+| custom namespace                           | UtilFuncs.hpp | [11](https://github.com/fedackb/maze-maker/blob/master/UtilFuncs.hpp#L11)   |
 | self-made header file                      | UtilFuncs.hpp | [2](https://github.com/fedackb/maze-maker/blob/master/UtilFuncs.hpp#L2)     |
 | makefile                                   | makefile      | [2](https://github.com/fedackb/maze-maker/blob/master/makefile#L2)          |
 | default constructor                        | Maze.cpp      | [22](https://github.com/fedackb/maze-maker/blob/master/Maze.cpp#L22)        |
